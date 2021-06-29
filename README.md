@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @interestingagent 
 - 👀 I’m interested in Web design and photography
-- 🌱 I’m currently learning Web Design 
+- 🌱 I’m currently learning basic Web Design 
 - 💞️ I’m looking to collaborate on idk, but I hope to collaborate with some great people!
 
 <!---
